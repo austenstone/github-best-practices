@@ -12,7 +12,8 @@ GitHub allows you to add topics to your repositories. These topics can be used t
 
 ## Repository properties
 
->> **Note:** This feature is only available for GitHub Enterprise Cloud and GitHub Enterprise Server.
+> [!NOTE]  
+> This feature is only available for GitHub Enterprise Cloud and GitHub Enterprise Server.
 
 Recently in 2023 GitHub introduced a new feature that allows you to add properties to your repositories. Properties can be required or optional and either text or multiple choice. This makes it easy to filter all repositories with a specific property, or even a combination of properties.
 
