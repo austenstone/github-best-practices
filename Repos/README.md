@@ -17,6 +17,16 @@ GitHub allows you to add topics to your repositories. These topics can be used t
 
 Recently in 2023 GitHub introduced a new feature that allows you to add properties to your repositories. Properties can be required or optional and either text or multiple choice. This makes it easy to filter all repositories with a specific property, or even a combination of properties.
 
+Search by properties or combinations of properties.
+
+![image](https://github.com/austenstone/github-best-practices/assets/22425467/eba20789-7cb4-46a1-90f6-56298bea3200)
+
+![image](https://github.com/austenstone/github-best-practices/assets/22425467/3106c77f-8784-46e8-96d1-99cb82d6522f)
+
+Required properties must be selected on repository creation.
+
+![image](https://github.com/austenstone/github-best-practices/assets/22425467/c831f623-d408-4fa4-a89c-27f1f501c14c)
+
 ### Reasons why properties might not be enough
 - Properties need to be explicitly searched for using the search syntax `props.<property-name>:<property-value>`. This can be cumbersome if you want to quickly filter repositories by a property.
 - Properties are only available for GitHub Enterprise Cloud and GitHub Enterprise Server. If you are using Free or Teams, you are out of luck.
